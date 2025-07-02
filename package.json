@@ -1,0 +1,23 @@
+{
+  "name": "nodemailer-testing",
+  "version": "1.0.0",
+  "description": "testing nodemailer configurations",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "setup": "npm install"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/bbradnerVT/nodemailer-testing.git"
+  },
+  "author": "bbradnerVT",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/bbradnerVT/nodemailer-testing/issues"
+  },
+  "homepage": "https://github.com/bbradnerVT/nodemailer-testing#readme",
+  "dependencies": {
+    "nodemailer": "^7.0.4"
+  }
+}

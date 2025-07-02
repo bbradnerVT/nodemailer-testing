@@ -1,0 +1,9 @@
+This is just a quick project setup for testing nodemailer authentication configurations.
+To run ensure you have node installed (preferably the same or a newer LTS version than that listed below).
+Once done you can either run `npm install` or `npm setup` from this main directory to install the necessary packages.
+With that done you will need to configure index.js to match your authentication needs.
+To test your changes you can either run `node index.js` or `npm start`.
+
+
+
+Developed using Node v22.16.0 and npm v10.9.2
